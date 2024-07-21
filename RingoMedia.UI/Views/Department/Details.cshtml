@@ -1,0 +1,80 @@
+﻿@model RingoMedia.DataAccess.ViewModels.DepartmentDetailsViewModel
+
+@{
+    ViewData["Title"] = "Department Details";
+}
+
+<h3>Department Details</h3>
+<hr />
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Department.Logo)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="/@Model.Department.Logo" alt="Logo" style="max-width: 200px;" />
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Department.Name)
+        </dt>
+        <dd class="col-sm-10">
+            <h5>   @Html.DisplayFor(model => model.Department.Name)</h5>
+        </dd>
+      
+        <dt class="col-sm-2">
+            Sub-Departments
+        </dt>
+        <dd class="col-sm-10">
+            @if (Model.SubDepartments.Any())
+            {
+                <ul>
+                    @foreach (var subDepartment in Model.SubDepartments)
+                    {
+                        <li><h5>@subDepartment.Name</h5></li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <p>This department has no sub-departments.</p>
+            }
+        </dd>
+        <dt class="col-sm-2">
+            Parent Departments
+        </dt>
+        <dd class="col-sm-10">
+            @if (Model.ParentDepartments.Any())
+            {
+                <p>
+                    @{
+                        int marginLeft = 0;
+                        string paddingLeft = "";
+                        for (int i = 0; i < Model.ParentDepartments.Count(); i++)
+                        {
+                            var subDepartment = Model.ParentDepartments.ElementAt(i);
+                            paddingLeft = "padding-left:" + marginLeft + "px";
+                            <h5 style="@paddingLeft">
+                                @subDepartment.Name
+                                <p style="@paddingLeft"> |___</p>
+                            </h5>
+                            marginLeft += 30;
+                        }
+                        marginLeft += 30;
+                        paddingLeft = "padding-left:" + marginLeft + "px";
+                        <h5 style="@paddingLeft">
+                            @Model.Department.Name
+
+                        </h5>
+                    }
+                </p>
+            }
+            else
+            {
+                <p>This department has no Parents.</p>
+            }
+        </dd>
+    </dl>
+
+    <a asp-action="Index">Back to List</a>
+</div>

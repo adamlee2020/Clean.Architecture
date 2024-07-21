@@ -1,0 +1,57 @@
+﻿@model RingoMedia.DataAccess.ViewModels.DepartmentViewModel
+
+@{
+    ViewData["Title"] = "Create Department";
+}
+
+<h1>Create Department</h1>
+ 
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LogoFile" class="control-label"></label>
+                <input asp-for="LogoFile" class="form-control" type="file" />
+                <span asp-validation-for="LogoFile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ParentDepartmentId" class="control-label">Parent Department:</label>
+                @if (Model.Departments != null)
+                {
+                    <select asp-for="ParentDepartmentId" class="form-control">
+                        <option value="">-- Select Parent --</option> @foreach (var department in Model.Departments)
+                        {
+                            <option value="@department.Value">
+                               @department.Text
+                            </option>
+                        }
+                    </select>
+                }
+                else
+                {
+                    <p>No departments available for selection.</p>
+                }
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Infrastructure/bin/Debug/net8.0
+/Infrastructure/obj
+/RingoMedia.App/bin/Debug/net8.0
+/RingoMedia.App/obj
+/RingoMedia.DataAccess/bin/Debug/net8.0
+/RingoMedia.DataAccess/obj
+/RingoMedia.Service/bin/Debug/net8.0
+/RingoMedia.Service/obj
+/RingoMedia.UI/obj
