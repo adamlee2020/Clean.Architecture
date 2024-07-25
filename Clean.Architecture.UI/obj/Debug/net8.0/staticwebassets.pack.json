@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Clean.Architecture.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Clean.Architecture.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\upload\\3b33aaf2-a561-4405-b4fd-75d2bfbb9a7b.png",
+      "PackagePath": "staticwebassets\\upload\\3b33aaf2-a561-4405-b4fd-75d2bfbb9a7b.png"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\upload\\5cd60257-f5cd-46ed-ac91-e77fbf655610.png",
+      "PackagePath": "staticwebassets\\upload\\5cd60257-f5cd-46ed-ac91-e77fbf655610.png"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\upload\\68fc3c35-a206-47b5-9f3f-f5cbbbd3e4bf.png",
+      "PackagePath": "staticwebassets\\upload\\68fc3c35-a206-47b5-9f3f-f5cbbbd3e4bf.png"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\upload\\6dbe5779-81c1-4dcb-a879-49c839cac6de.png",
+      "PackagePath": "staticwebassets\\upload\\6dbe5779-81c1-4dcb-a879-49c839cac6de.png"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\upload\\6e08a716-276b-4b80-9794-c2708caf94f3.png",
+      "PackagePath": "staticwebassets\\upload\\6e08a716-276b-4b80-9794-c2708caf94f3.png"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\upload\\82a9b812-e011-4e2e-923f-7db3100c75ba.png",
+      "PackagePath": "staticwebassets\\upload\\82a9b812-e011-4e2e-923f-7db3100c75ba.png"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\upload\\93450f32-9a18-44a3-aa96-7b19e940272b.png",
+      "PackagePath": "staticwebassets\\upload\\93450f32-9a18-44a3-aa96-7b19e940272b.png"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\upload\\b0ac5f73-7163-4f9d-9771-eec65c5a24b3.png",
+      "PackagePath": "staticwebassets\\upload\\b0ac5f73-7163-4f9d-9771-eec65c5a24b3.png"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\upload\\b4bcb79f-93c3-446d-a60a-d13d706f6cdd.png",
+      "PackagePath": "staticwebassets\\upload\\b4bcb79f-93c3-446d-a60a-d13d706f6cdd.png"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\upload\\cba6970c-dd8d-43c9-ac6f-04ea4d738dd5.png",
+      "PackagePath": "staticwebassets\\upload\\cba6970c-dd8d-43c9-ac6f-04ea4d738dd5.png"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\upload\\d0534d39-412e-4fb0-a561-6dc250e16ff1.png",
+      "PackagePath": "staticwebassets\\upload\\d0534d39-412e-4fb0-a561-6dc250e16ff1.png"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\upload\\d6a0d5d1-064f-4b18-873c-91ec97c18aec.png",
+      "PackagePath": "staticwebassets\\upload\\d6a0d5d1-064f-4b18-873c-91ec97c18aec.png"
+    },
+    {
+      "Id": "C:\\Users\\Adam\\source\\repos\\adamlee2020\\Clean.Architecture.UI\\wwwroot\\upload\\e58d44b6-b50a-4e2b-884b-f0b475a9c613.png",
+      "PackagePath": "staticwebassets\\upload\\e58d44b6-b50a-4e2b-884b-f0b475a9c613.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Clean.Architecture.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Clean.Architecture.UI.props",
+      "PackagePath": "build\\Clean.Architecture.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Clean.Architecture.UI.props",
+      "PackagePath": "buildMultiTargeting\\Clean.Architecture.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Clean.Architecture.UI.props",
+      "PackagePath": "buildTransitive\\Clean.Architecture.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

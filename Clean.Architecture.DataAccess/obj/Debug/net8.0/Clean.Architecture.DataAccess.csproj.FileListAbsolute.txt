@@ -1,0 +1,15 @@
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\bin\Debug\net8.0\Clean.Architecture.DataAccess.deps.json
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\bin\Debug\net8.0\Clean.Architecture.DataAccess.runtimeconfig.json
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\bin\Debug\net8.0\Clean.Architecture.DataAccess.dll
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\bin\Debug\net8.0\Clean.Architecture.DataAccess.pdb
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\obj\Debug\net8.0\Clean.Architecture.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\obj\Debug\net8.0\Clean.Architecture.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\obj\Debug\net8.0\Clean.Architecture.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\obj\Debug\net8.0\Clean.Architecture.DataAccess.AssemblyInfo.cs
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\obj\Debug\net8.0\Clean.Architecture.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\obj\Debug\net8.0\Clean.Architecture.DataAccess.sourcelink.json
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\obj\Debug\net8.0\Clean.Architecture.DataAccess.dll
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\obj\Debug\net8.0\refint\Clean.Architecture.DataAccess.dll
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\obj\Debug\net8.0\Clean.Architecture.DataAccess.pdb
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\obj\Debug\net8.0\Clean.Architecture.DataAccess.genruntimeconfig.cache
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.DataAccess\obj\Debug\net8.0\ref\Clean.Architecture.DataAccess.dll

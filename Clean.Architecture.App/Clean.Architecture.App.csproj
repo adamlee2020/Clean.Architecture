@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Clean.Architecture.DataAccess\Clean.Architecture.DataAccess.csproj" />
+    <ProjectReference Include="..\Clean.Architecture.Service\Clean.Architecture.Service.csproj" />
+  </ItemGroup>
+
+</Project>

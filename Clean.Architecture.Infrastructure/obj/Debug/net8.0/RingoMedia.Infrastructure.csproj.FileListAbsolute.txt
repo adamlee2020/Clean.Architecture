@@ -1,0 +1,15 @@
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\bin\Debug\net8.0\RingoMedia.Infrastructure.deps.json
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\bin\Debug\net8.0\RingoMedia.Infrastructure.dll
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\bin\Debug\net8.0\RingoMedia.Infrastructure.pdb
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\bin\Debug\net8.0\RingoMedia.DataAccess.dll
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\bin\Debug\net8.0\RingoMedia.DataAccess.pdb
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\obj\Debug\net8.0\RingoMedia.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\obj\Debug\net8.0\RingoMedia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\obj\Debug\net8.0\RingoMedia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\obj\Debug\net8.0\RingoMedia.Infrastructure.AssemblyInfo.cs
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\obj\Debug\net8.0\RingoMedia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\obj\Debug\net8.0\RingoMed.AAAB02F1.Up2Date
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\obj\Debug\net8.0\RingoMedia.Infrastructure.dll
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\obj\Debug\net8.0\refint\RingoMedia.Infrastructure.dll
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\obj\Debug\net8.0\RingoMedia.Infrastructure.pdb
+C:\Users\Adam\source\repos\adamlee2020\Infrastructure\obj\Debug\net8.0\ref\RingoMedia.Infrastructure.dll

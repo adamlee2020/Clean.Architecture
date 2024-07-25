@@ -1,0 +1,17 @@
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\bin\Debug\net8.0\RingoMedia.Service.deps.json
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\bin\Debug\net8.0\RingoMedia.Service.dll
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\bin\Debug\net8.0\RingoMedia.Service.pdb
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\bin\Debug\net8.0\RingoMedia.DataAccess.dll
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\bin\Debug\net8.0\RingoMedia.Infrastructure.dll
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\bin\Debug\net8.0\RingoMedia.Infrastructure.pdb
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\bin\Debug\net8.0\RingoMedia.DataAccess.pdb
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\obj\Debug\net8.0\RingoMedia.Service.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\obj\Debug\net8.0\RingoMedia.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\obj\Debug\net8.0\RingoMedia.Service.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\obj\Debug\net8.0\RingoMedia.Service.AssemblyInfo.cs
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\obj\Debug\net8.0\RingoMedia.Service.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\obj\Debug\net8.0\RingoMed.B7BB4857.Up2Date
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\obj\Debug\net8.0\RingoMedia.Service.dll
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\obj\Debug\net8.0\refint\RingoMedia.Service.dll
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\obj\Debug\net8.0\RingoMedia.Service.pdb
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Service\obj\Debug\net8.0\ref\RingoMedia.Service.dll

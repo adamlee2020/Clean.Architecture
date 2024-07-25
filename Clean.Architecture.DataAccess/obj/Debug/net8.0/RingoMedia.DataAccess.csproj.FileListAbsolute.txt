@@ -1,0 +1,14 @@
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\bin\Debug\net8.0\RingoMedia.DataAccess.deps.json
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\bin\Debug\net8.0\RingoMedia.DataAccess.runtimeconfig.json
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\bin\Debug\net8.0\RingoMedia.DataAccess.dll
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\bin\Debug\net8.0\RingoMedia.DataAccess.pdb
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\obj\Debug\net8.0\RingoMedia.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\obj\Debug\net8.0\RingoMedia.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\obj\Debug\net8.0\RingoMedia.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\obj\Debug\net8.0\RingoMedia.DataAccess.AssemblyInfo.cs
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\obj\Debug\net8.0\RingoMedia.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\obj\Debug\net8.0\RingoMedia.DataAccess.dll
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\obj\Debug\net8.0\refint\RingoMedia.DataAccess.dll
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\obj\Debug\net8.0\RingoMedia.DataAccess.pdb
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\obj\Debug\net8.0\RingoMedia.DataAccess.genruntimeconfig.cache
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.DataAccess\obj\Debug\net8.0\ref\RingoMedia.DataAccess.dll

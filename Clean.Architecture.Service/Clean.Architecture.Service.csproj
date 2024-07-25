@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Clean.Architecture.DataAccess\Clean.Architecture.DataAccess.csproj" />
+    <ProjectReference Include="..\Clean.Architecture.Infrastructure\Clean.Architecture.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Domain\bin\Debug\net8.0\RingoMedia.Domain.deps.json
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Domain\bin\Debug\net8.0\RingoMedia.Domain.dll
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Domain\bin\Debug\net8.0\RingoMedia.Domain.pdb
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Domain\obj\Debug\net8.0\RingoMedia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Domain\obj\Debug\net8.0\RingoMedia.Domain.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Domain\obj\Debug\net8.0\RingoMedia.Domain.AssemblyInfo.cs
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Domain\obj\Debug\net8.0\RingoMedia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Domain\obj\Debug\net8.0\RingoMedia.Domain.dll
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Domain\obj\Debug\net8.0\refint\RingoMedia.Domain.dll
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Domain\obj\Debug\net8.0\RingoMedia.Domain.pdb
+C:\Users\Adam\source\repos\adamlee2020\RingoMedia.Domain\obj\Debug\net8.0\ref\RingoMedia.Domain.dll

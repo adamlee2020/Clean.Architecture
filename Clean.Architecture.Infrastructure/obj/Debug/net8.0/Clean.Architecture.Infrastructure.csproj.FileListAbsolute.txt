@@ -1,0 +1,16 @@
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\bin\Debug\net8.0\Clean.Architecture.Infrastructure.deps.json
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\bin\Debug\net8.0\Clean.Architecture.Infrastructure.dll
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\bin\Debug\net8.0\Clean.Architecture.Infrastructure.pdb
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\bin\Debug\net8.0\Clean.Architecture.DataAccess.dll
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\bin\Debug\net8.0\Clean.Architecture.DataAccess.pdb
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.AssemblyInfo.cs
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.sourcelink.json
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Ar.188B85B1.Up2Date
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.dll
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\obj\Debug\net8.0\refint\Clean.Architecture.Infrastructure.dll
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.pdb
+C:\Users\Adam\source\repos\adamlee2020\Clean.Architecture.Infrastructure\obj\Debug\net8.0\ref\Clean.Architecture.Infrastructure.dll
