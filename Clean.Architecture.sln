@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RingoMedia.UI", "RingoMedia.UI\RingoMedia.UI.csproj", "{AA5734CE-2A62-4C3E-A764-DD3951FA715C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Architecture.UI", "RingoMedia.UI\Clean.Architecture.UI.csproj", "{AA5734CE-2A62-4C3E-A764-DD3951FA715C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RingoMedia.App", "RingoMedia.App\RingoMedia.App.csproj", "{83D77763-6AF2-4682-80DB-EECDA717D074}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Architecture.App", "RingoMedia.App\Clean.Architecture.App.csproj", "{83D77763-6AF2-4682-80DB-EECDA717D074}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RingoMedia.DataAccess", "RingoMedia.DataAccess\RingoMedia.DataAccess.csproj", "{3F9E183A-B0B2-4AD9-8AFF-A139B7D11516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Architecture.DataAccess", "RingoMedia.DataAccess\Clean.Architecture.DataAccess.csproj", "{3F9E183A-B0B2-4AD9-8AFF-A139B7D11516}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RingoMedia.Infrastructure", "Infrastructure\RingoMedia.Infrastructure.csproj", "{A69C5C6C-AE31-48CD-ACB0-D6E34FC70B41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Architecture.Infrastructure", "Infrastructure\Clean.Architecture.Infrastructure.csproj", "{A69C5C6C-AE31-48CD-ACB0-D6E34FC70B41}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RingoMedia.Service", "RingoMedia.Service\RingoMedia.Service.csproj", "{866D2DA6-273E-49EC-A347-86F4E52F22FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Architecture.Service", "RingoMedia.Service\Clean.Architecture.Service.csproj", "{866D2DA6-273E-49EC-A347-86F4E52F22FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

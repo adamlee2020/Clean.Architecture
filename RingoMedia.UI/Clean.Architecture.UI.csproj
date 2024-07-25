@@ -28,9 +28,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Infrastructure\RingoMedia.Infrastructure.csproj" />
-    <ProjectReference Include="..\RingoMedia.App\RingoMedia.App.csproj" />
-    <ProjectReference Include="..\RingoMedia.DataAccess\RingoMedia.DataAccess.csproj" />
+    <ProjectReference Include="..\Infrastructure\Clean.Architecture.Infrastructure.csproj" />
+    <ProjectReference Include="..\RingoMedia.App\Clean.Architecture.App.csproj" />
+    <ProjectReference Include="..\RingoMedia.DataAccess\Clean.Architecture.DataAccess.csproj" />
   </ItemGroup>
 
   <ItemGroup>
